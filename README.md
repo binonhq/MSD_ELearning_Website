@@ -2,7 +2,7 @@
 ### Install packages
 
 ```shell
-npm i --force
+npm install --force
 ```
 
 ### Setup .env file
